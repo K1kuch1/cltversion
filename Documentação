@@ -1,0 +1,12 @@
+git init = Cria um repositório Git vazio ou reinicializa um existent
+git status =  Exibe o estado atual do repositório, mostrando quais arquivos foram modificados, adicionados ou estão prontos para commit.
+git add =  Adiciona o conteúdo do arquivo no index
+git commit = Grava mudanças realizadas dentro do repositório
+git branch = Lista, Cria, ou Deleta ramificações
+git remote add origin = Adiciona um repositório remoto com o nome origin
+git push -u origin = Envia a branch local para o repositório remoto e a define como padrão para futuros pushes.
+
+Esses códigos realizam a operação para criar um novo branch para inserir o código ao repositório
+
+
+
